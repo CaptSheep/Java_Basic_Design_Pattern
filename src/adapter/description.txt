@@ -1,0 +1,2 @@
+- Cho phép các Interface không liên quan đến nhau có thể làm việc cùng nhau
+- Giữ vai trò trung gian giữa 2 lớp, chuyển đổi interface của 1 hay nhiều lớp thành interface khác

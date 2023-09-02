@@ -1,0 +1,2 @@
+- Đóng gói yêu cầu thành 1 đối tượng
+- Cho phép Client sử dụng nhiều request khác nhau

@@ -1,0 +1,1 @@
+- Sử dụng lớp con để quyết định việc đối tượng nào sẽ được gọi ở lớp con

@@ -1,0 +1,2 @@
+- Quy định / Định nghĩa bộ khung các bước để triển khai thuật toán.
+- Để lại cho các lớp con triển khai cụ thể
